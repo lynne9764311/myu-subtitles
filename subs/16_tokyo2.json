@@ -1,6 +1,6 @@
 [
 
-  { "isConfig": true, "ppvOffset": -2421.546 },
+  { "isConfig": true, "ppvOffset": -2425.546 },
   
   {
     "start": 128.889,
@@ -506,11 +506,6 @@
     "start": 443.898,
     "end": 446.133,
     "text": "要注意哦<br />一點點都不行喔"
-  },
-  {
-    "start": 0.0,
-    "end": 1.0,
-    "text": "一點點都不行喔"
   },
   {
     "start": 446.158,
