@@ -1,6 +1,6 @@
 [
 
-  { "isConfig": true, "ppvOffset": -2425.146 },
+  { "isConfig": true, "ppvOffset": -242.546 },
   
   {
     "start": 128.889,
@@ -1435,17 +1435,17 @@
   {
     "start": 1101.642,
     "end": 1105.12,
-    "text": "喂 老頭子<br />這介紹方式有問題吧"
+    "text": "喂 老頭子<br />這介紹方式有問題吧", "position": "top"
   },
   {
     "start": 1105.938,
     "end": 1107.584,
-    "text": "叫人老頭子太無禮了"
+    "text": "叫人老頭子太無禮了", "position": "top"
   },
   {
     "start": 1107.92,
     "end": 1112.734,
-    "text": "率領他們的黃昏時忍軍首領<br />雜渡昆奈門"
+    "text": "率領他們的黃昏時忍軍首領<br />雜渡昆奈門", "position": "top"
   },
   {
     "start": 1131.004,
