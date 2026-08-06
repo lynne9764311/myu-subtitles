@@ -1,6 +1,9 @@
 [
 
-  { "isConfig": true, "ppvOffset": -0 },
+  {
+    "isConfig": true,
+    "ppvOffset": -0.0
+  },
   
   {
     "start": 134.816,
